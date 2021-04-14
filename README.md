@@ -1,2 +1,3 @@
-# psysever.github.io
-Used only HTML AND CSS for CMtalk
+# Kokoa Clone 2020 Update
+
+HTML & CSS are so much fun!
